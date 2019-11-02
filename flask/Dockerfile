@@ -11,4 +11,5 @@ ADD . /app
 RUN pip install -r requirements.txt
 
 #run the command
+# use CMD ["python", "./run.py"] for run python file to your server
 CMD ["echo", "hello aliens"]
