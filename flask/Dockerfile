@@ -10,5 +10,5 @@ ADD . /app
 #Install the dependencies
 RUN pip install -r requirements.txt
 
-#run the command to start uWSGI
-#CMD ["app.ini"]
+#run the command
+CMD ["echo", "hello aliens"]
