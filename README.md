@@ -1,4 +1,4 @@
-# Dockerize-Simple-Flask-App
+# Dockerize-Simple-Flask-App ✨ 🍰 ✨
 
 # Flask
 Flask is a pretty decent microframework for making web services in Python.Flask is a lightweight web frame of Python. It provides the user with libraries, modules and tools to help build Web-Applications such as a blog or wiki.
